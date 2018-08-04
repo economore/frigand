@@ -21,7 +21,10 @@ No POST, no PUT, no headers. <p>
 ## How to use it
 Configure your Fritz!Box DynDNS to use the custom service. <p>
 Example URL:<br> 
-https://apps.economore.io/frigand/update?username=<username>&domain=<domain>&ipaddr=<ipaddr> <p>
+
+```
+https://apps.economore.io/frigand/update?username=<username>&domain=<domain>&ipaddr=<ipaddr> 
+```
 
 Username has to be set to gandi.net API Key and the domain is yours.
 
