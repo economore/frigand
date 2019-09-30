@@ -1,8 +1,8 @@
 package io.economore.frigand.gandi;
 
-import lombok.Value;
+import lombok.Data;
 
-@Value
+@Data
 public class GandiAnswer {
 
     private String message;
